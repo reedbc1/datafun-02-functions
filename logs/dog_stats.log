@@ -1,0 +1,18 @@
+2023-09-03 10:18:17,454.dog_stats.INFO ==================================================
+2023-09-03 10:18:17,455.dog_stats.INFO Today is 2023-09-03 at 10:18 AM
+2023-09-03 10:18:17,508.dog_stats.INFO Running on: nt Windows 10
+2023-09-03 10:18:17,509.dog_stats.INFO Python version:  3.11.2
+2023-09-03 10:18:17,510.dog_stats.INFO Python path: C:\Python311
+2023-09-03 10:18:17,510.dog_stats.INFO Working dir: C:\Users\reedb\Documents\NW University\datafun-02-functions
+2023-09-03 10:18:17,510.dog_stats.INFO ==================================================
+2023-09-03 10:18:23,221.dog_stats.INFO temp_1 = 40.0
+2023-09-03 10:18:23,226.dog_stats.INFO temp_2 = 12.0
+2023-09-03 10:18:23,226.dog_stats.INFO temp_3 = 3.0
+2023-09-03 10:18:23,227.dog_stats.INFO The sum is 55.0.
+2023-09-03 10:18:23,228.dog_stats.INFO The average is 18.33.
+2023-09-03 10:18:23,228.dog_stats.INFO The product is 1440.0.
+2023-09-03 10:18:23,229.dog_stats.INFO The smallest is 3.0.
+2023-09-03 10:18:23,229.dog_stats.INFO The largest is 40.0.
+2023-09-03 10:18:23,230.dog_stats.INFO The range is 37.0.
+2023-09-03 10:18:23,230.dog_stats.INFO It's above freezing at the Doggy Daycare!
+2023-09-03 10:18:26,414.dog_stats.INFO Script complete. See log file for details.

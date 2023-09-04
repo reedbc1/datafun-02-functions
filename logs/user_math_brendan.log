@@ -1,0 +1,15 @@
+2023-09-03 20:21:48,315.user_math_brendan.INFO ==================================================
+2023-09-03 20:21:48,316.user_math_brendan.INFO Today is 2023-09-03 at 08:21 PM
+2023-09-03 20:21:48,346.user_math_brendan.INFO Running on: nt Windows 10
+2023-09-03 20:21:48,347.user_math_brendan.INFO Python version:  3.11.2
+2023-09-03 20:21:48,348.user_math_brendan.INFO Python path: C:\Python311
+2023-09-03 20:21:48,349.user_math_brendan.INFO Working dir: C:\Users\reedb\Documents\NW University\datafun-02-functions
+2023-09-03 20:21:48,350.user_math_brendan.INFO ==================================================
+2023-09-03 20:21:48,350.user_math_brendan.INFO Explore some functions in the math module
+2023-09-03 20:21:48,351.user_math_brendan.INFO math.comb(5,1) = 5
+2023-09-03 20:21:48,351.user_math_brendan.INFO math.perm(5,1) = 5
+2023-09-03 20:21:48,352.user_math_brendan.INFO 1500000
+2023-09-03 20:21:48,352.user_math_brendan.INFO 759500
+2023-09-03 20:21:48,353.user_math_brendan.INFO 294.11764705882354
+2023-09-03 20:21:48,353.user_math_brendan.INFO 11.11111111111111
+2023-09-03 20:21:48,354.user_math_brendan.INFO 3500.0000000000005

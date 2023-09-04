@@ -103,7 +103,7 @@ if __name__ == "__main__":
     logger.info("")
 
     logger.info("TRY: Call get_circle_area_given_radius() function with a different values.")
-    get_circle_area_given_radius(5)
+    get_circle_area_given_radius(100)
     get_circle_area_given_radius(-16)
     get_circle_area_given_radius(math.inf)
     get_circle_area_given_radius('five')

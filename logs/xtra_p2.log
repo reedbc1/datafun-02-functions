@@ -1,0 +1,24 @@
+2023-09-03 14:22:49,709.xtra_p2.INFO ==================================================
+2023-09-03 14:22:49,710.xtra_p2.INFO Today is 2023-09-03 at 02:22 PM
+2023-09-03 14:22:49,780.xtra_p2.INFO Running on: nt Windows 10
+2023-09-03 14:22:49,781.xtra_p2.INFO Python version:  3.11.2
+2023-09-03 14:22:49,783.xtra_p2.INFO Python path: C:\Python311
+2023-09-03 14:22:49,783.xtra_p2.INFO Working dir: C:\Users\reedb\Documents\NW University\datafun-02-functions
+2023-09-03 14:22:49,784.xtra_p2.INFO ==================================================
+2023-09-03 14:22:49,785.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-03 14:22:49,786.xtra_p2.INFO RETURNING bearcat
+2023-09-03 14:22:49,787.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-03 14:22:49,789.xtra_p2.INFO RETURNING bearcat
+2023-09-03 14:22:49,790.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 14:22:49,791.xtra_p2.INFO RETURNING hello
+2023-09-03 14:22:49,792.xtra_p2.INFO ===========================================================
+2023-09-03 14:22:49,792.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-09-03 14:22:49,794.xtra_p2.INFO ===========================================================
+2023-09-03 14:22:49,808.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-03 14:22:49,809.xtra_p2.INFO RETURNING bearcat
+2023-09-03 14:22:49,815.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-03 14:22:49,816.xtra_p2.INFO RETURNING bearcat
+2023-09-03 14:22:49,821.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 14:22:49,823.xtra_p2.INFO RETURNING hello
+2023-09-03 14:22:49,864.xtra_p2.ERROR 6 tests failed!
+2023-09-03 14:22:49,864.xtra_p2.INFO Script complete. More info in the log file.

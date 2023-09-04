@@ -43,7 +43,13 @@ from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 # TODO: Add functions to get the unit tests to pass 
+def sum_two(num1, num2):
+    return num1 + num2
+
+def sum_rectangle_list(my_list):
+    
 # TODO: Log each time the function is called (along with its arguments)
+
 # TODO: Log the result of each function just before you return the result
 
 
